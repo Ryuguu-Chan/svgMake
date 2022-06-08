@@ -1,3 +1,5 @@
+# IT'S JUST A WIP FOR NOW
+
 # svgMake
 [FR]
 Il s'agit d'un "compilateur" (voir même un convertisseur) multi-plateforme qui va faire passer un code source en un fichier *.svg
